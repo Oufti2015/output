@@ -1,4 +1,4 @@
-package sst.common.replaceFile;
+package sst.common.file.replaceFile;
 
 import java.io.BufferedReader;
 import java.io.File;
